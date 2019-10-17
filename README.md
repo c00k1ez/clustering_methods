@@ -10,6 +10,6 @@ Secondly install package:
 
 ## K-Means
 Colab notebook with benchmark:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cKqzcxALktictMGuwADflVwIw7sprDvR)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cKqzcxALktictMGuwADflVwIw7sprDvR)  
 ![depends on dimension](https://github.com/c00k1ez/clustering_methods/blob/master/imgs/dim_plot.png)  
 ![depends on n_samples](https://github.com/c00k1ez/clustering_methods/blob/master/imgs/n_samples_plot.png)
