@@ -1,3 +1,7 @@
+import os
+
+os.system('pip3 install pybind11')
+
 import pybind11
 from setuptools import Extension, find_packages, setup
 
